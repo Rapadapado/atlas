@@ -1,0 +1,20 @@
+body{
+    background-color: #3e000c;
+}
+
+p{
+    background-color: #ef3054;
+    color: #ffcbdd;
+    display: flex;
+    width: fit-content;
+    font-size: 16px;
+    text-align: center;
+}
+
+h1{
+    background-color: #ef3054;
+    color: #ffcbdd;
+    display: flex;
+    width: fit-content;
+    font-size: 40px;
+}
