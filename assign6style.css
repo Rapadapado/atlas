@@ -1,0 +1,24 @@
+h1, h2{
+  color: green;
+}
+
+p{
+  color: darkmagenta;
+}
+
+ul{
+  border: 3px dashed orange;
+}
+
+ol{
+  border: 3px double purple;
+}
+
+h1, strong{
+  color: purple;
+}
+
+ul, ol{
+  border-radius: 4px;
+  padding: 5px 20px;
+}
